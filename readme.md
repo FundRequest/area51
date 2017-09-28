@@ -11,7 +11,7 @@ You can find the Alpha platform by clicking on this link : https://alpha.fundreq
 ## How can I get test FND tokens which I can use in the Alpha?
 If you want to request to receive test FND tokens you must send your Rinkeby address to the [#faucet](https://fundrequest.slack.com/messages/faucet) channel in our [slack](https://fundrequest.slack.com). [(subscribe)](https://slack.fundrequest.io)
 
-## Where can I find more documention on the Aplha release and the platform?
+## Where can I find more documentation on the Alpha release and the platform?
 Documentation on the Alpha release can be found here : https://docs.fundrequest.io/display/PUB/Alpha+MVP
 All our public documentation is available at : https://docs.fundrequest.io
 
