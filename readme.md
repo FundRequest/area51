@@ -2,7 +2,7 @@
 > Repository used for creating tickets that can be funded via the [Alpha](https://alpha.fundrequest.io) release of the [FundRequest](https://fundrequest.io) platform. 
 
 
-To report a bug or request a feature or change in the [Alpha](https://alpha.fundrequest.io) release please open a [new issue](https://gitlab.fundrequest.io/_public/alpha/issues/new) ([Register](https://gitlab.fundrequest.io/users/sign_in))
+To report a bug or request a feature or change in the [Alpha](https://alpha.fundrequest.io) release please open a [new issue](https://github.com/FundRequest/platform/issues/new)
 
 
 ## Where can I find the Alpha platform?
