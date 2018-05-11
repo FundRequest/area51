@@ -1,9 +1,4 @@
 ### A text file that can be changs by anyone at any time 
 
 # Power to the people
-89
-add line
-add line
-
-nico test
-nico test
+Fixing issue #72
