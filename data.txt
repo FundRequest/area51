@@ -14,3 +14,4 @@ winter is coming -> need to buy a coat
 old school shit https://github.com/FundRequest/area51/issues/12
 
 testing
+test : https://github.com/FundRequest/platform/issues/353
