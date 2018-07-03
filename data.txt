@@ -2,11 +2,6 @@
 
 # Power to the people
 Fixing issue #72
-qsdqdqsdqsd
-qdqsdqsd
-qsdqsdqs
-sdqsdqsd
-sdqsdqsd
 fixing multiple issues
 alallahttps://github.com/FundRequest/area51/issues/118
 https://github.com/FundRequest/platform/issues/303
