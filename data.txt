@@ -9,5 +9,3 @@ https://github.com/FundRequest/platform/issues/302
 test : https://github.com/FundRequest/platform/issues/353
 
 winter is coming -> need to buy a coat -> coat not needed if you have a dragon
-
-qefdsdg
